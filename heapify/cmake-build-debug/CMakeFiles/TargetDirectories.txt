@@ -1,0 +1,3 @@
+C:/Users/marek/CLionProjects/heapify/cmake-build-debug/CMakeFiles/heapify.dir
+C:/Users/marek/CLionProjects/heapify/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marek/CLionProjects/heapify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
