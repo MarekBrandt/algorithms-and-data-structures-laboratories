@@ -1,3 +1,0 @@
-C:/Users/marek/CLionProjects/shellSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/marek/CLionProjects/shellSort/cmake-build-debug/CMakeFiles/shellSort.dir
-C:/Users/marek/CLionProjects/shellSort/cmake-build-debug/CMakeFiles/edit_cache.dir
